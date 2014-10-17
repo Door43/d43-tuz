@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tuz:home|Door43 (tuz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tuz|d43-tuz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tuz/archive/master.zip|d43-tuz.zip]]
+
+**Recent Changes**
+{{changes>ns = tuz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tuz|Ethnologue data]]
+
